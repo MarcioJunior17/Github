@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MarcioJunior17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Ola Meu nome é  @MarcioJunior17
+- 👀 Meu email de contato é @silva.lopes.marcio@escola.pr.gov.br
+- 🌱 Atualmente estou aprendendo a programar novas linguagens 
+
+
 
 <!---
 MarcioJunior17/MarcioJunior17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
